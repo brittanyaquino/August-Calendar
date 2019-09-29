@@ -1,0 +1,91 @@
+h1 {
+    margin: 0px;
+}
+body {
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #66d0ae;
+}
+#header {
+    background-image: url("img/beach2.jpeg");
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+    line-height: 400px;
+    color: #fff;
+    font-size: 1.8em;
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 0px 0px 10px #000;
+    letter-spacing: .35em;
+}
+#calendar {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+table {
+    border-collapse: collapse;
+    text-align: end;
+}
+th {
+    border: 1px solid #000;
+    width: 157.142px;
+    padding: 10px 0px;
+    text-align: center;
+    background-color: #c8e9de;  
+    vertical-align: text-top;
+}
+td {
+    border: 1px solid #000;
+    height: 135px;
+    padding: 10px;
+    background-color: #c8e9de;
+    text-align: right;
+    vertical-align: text-top;
+}
+#footer {
+    background-color: #000;
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+.grey {
+    background-color: #a7a7a7;
+}
+#armstrong {
+    background-image: url("img/armstrong.png");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    font-weight: 700;
+}
+#houston {
+    background-image: url("img/houston.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    font-weight: 700;
+}
+#shelley {
+    background-image: url("img/shelley.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    font-weight: 700;
+}
+
+.font {
+    text-align: center;
+    font-size: 1em;
+    font-weight: 800;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    vertical-align: text-bottom; 
+}
